@@ -1,6 +1,6 @@
 {
   "name": "treen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~19.2.2",
+    "babel-preset-expo": "~55.0.25",
     "typescript": "~5.9.2"
   }
 }
