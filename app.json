@@ -2,18 +2,15 @@
   "expo": {
     "name": "T.R.E.E.N",
     "slug": "treen",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "backgroundColor": "#07100B",
-    "plugins": [
-      "expo-system-ui"
-    ],
     "android": {
       "package": "com.treen.training",
-      "versionCode": 2,
-      "edgeToEdgeEnabled": true,
-      "softwareKeyboardLayoutMode": "resize"
+      "versionCode": 3,
+      "softwareKeyboardLayoutMode": "resize",
+      "predictiveBackGestureEnabled": false
     }
   }
 }
